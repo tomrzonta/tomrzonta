@@ -3,7 +3,6 @@
 
 - 🔭 Atuamente não estou trabalhando na área de técnologia mas estou à procura de um estágio ...
 - 🌱 Estou estudando Python para ciência de dados...
-- 📫 Para me encontrar: https://www.linkedin.com/in/thomas-raphael-zonta-295854220/
 - 😄 Pronomes: Ele/Dele
 - ⚡ Gostos: Entusiasta de atividades físicas (crossfit, basketball ) e leitor de aventuras/fantasias ( Tolkien, Martin, Paolini ... )
 
