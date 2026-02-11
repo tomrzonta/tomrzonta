@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Thomas. 👋
 
 
-- 🔭 Atuamente não estou trabalhando na área de técnologia mas estou à procura de um estágio ...
-- 🌱 Estou estudando Python para ciência de dados...
+- 🔭 Atuamente não estou trabalhando na área de técnologia mas estou à procura de um emprego ...
+- 🌱 Sou formado em análise e desenvolvimento de sistemas e possuo MBA em Ciência de Dados.
 - 😄 Pronomes: Ele/Dele
-- ⚡ Gostos: Entusiasta de atividades físicas (crossfit, basketball ) e leitor de aventuras/fantasias ( Tolkien, Martin, Paolini ... )
+- ⚡ Gostos: Entusiasta de atividades físicas (crossfit, esportes em geral ) e leitor de aventuras/fantasias ( Tolkien, Martin, Paolini ... )
 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
